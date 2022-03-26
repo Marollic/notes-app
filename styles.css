@@ -21,9 +21,9 @@
 input {
     height: 32px;
     border: 1px solid #ccc;
-    pad: 0px 8px;
+    padding: 0px 8px;
     border-radius: 6px;
-    border-bottom: 16px;
+    margin-right: 4px;
     width: calc(50% - 152px);
 }
 button, select {
